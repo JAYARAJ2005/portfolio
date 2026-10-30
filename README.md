@@ -29,8 +29,8 @@ I'm Jayaraj S, an MCA student and aspiring Full Stack Developer based in Chennai
 
 | Project | Description | Links |
 | --- | --- | --- |
-| AI Study Assistant | AI-powered study tool with summaries, quizzes, flashcards and a doubt chatbot | [Live](https://ai-study-assistant-psi-seven.vercel.app/) · [Code](https://github.com/JAYARAJ2005/ai-study-assistant) |
-| AstraAI | Full-stack AI web app with JWT authentication and AI-powered features | [Live](https://astra-ai-hazel.vercel.app/) · [Code](https://github.com/JAYARAJ2005/AstraAI) |
+| AI Study Assistant | AI-powered study tool: upload PDF, DOCX or TXT files or paste a YouTube link to get summaries, quizzes, flashcards and a doubt chatbot | [Live](https://ai-study-assistant-hub.vercel.app) · [Code](https://github.com/JAYARAJ2005/ai-study-assistant) |
+| AstraAI | Full-stack AI web app with JWT authentication and AI-powered features | [Live](https://astra-ai-chatassistant.vercel.app) · [Code](https://github.com/JAYARAJ2005/AstraAI) |
 
 ## Run Locally
 
